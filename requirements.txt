@@ -1,0 +1,6 @@
+tensorflow-gpu==1.14
+numpy
+matplotlib
+python-telegram-bot
+python-dateutil
+tqdm
